@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import Slider from 'react-slick'
 export const SliderSlick = () => {
   var settings = {
-    backgroundColor: '#f8f8f8',
     dots: true,
     lazyLoad: true,
     infinite: true,
