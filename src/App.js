@@ -1,8 +1,9 @@
+import { SliderSlick } from "./components/SliderSlick";
 
 function App() {
   return (
     <div>
-    ss
+    <SliderSlick />
     </div>
   );
 }
